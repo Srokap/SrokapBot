@@ -4,9 +4,9 @@ var TwitchBot = require('./lib/index.js')
 
 var config = require('./config.json')
   , token = 'oauth:' + config.token
-  //, channelName = '#shaboozey'
+  , channelName = 'shaboozey'
   //, channelName = 'disguisedtoasths'
-  , channelName = 'margaretkrohn'
+  //, channelName = 'margaretkrohn'
   //, channelName = 'dexteritybonus'
   //, channelName = 'gaarabestshaman'
 
