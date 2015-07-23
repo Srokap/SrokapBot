@@ -25,7 +25,7 @@ TODO
 -----
 
 - need to add outgoing messages buffer
-	- there seems to be 1000ms delay needed when responding to self
+	- there seems to be at least 1000ms delay needed when responding to self
 	- theres 20 messages per 30s threshold that bans from channel for 8h
 	- for mods, the limit is 100 messages per 30s per connection
 	
